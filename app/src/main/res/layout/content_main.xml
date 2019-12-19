@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+
+
+        <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/categoriestxtview" />
+
+                <ImageView
+                    android:id="@+id/abstractImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/wallabstract"
+                    android:contentDescription="@string/abstractimg"
+                    android:onClick="abstractImageonClick" />
+
+                <ImageView
+                    android:id="@+id/animalsImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/animals"
+                    android:contentDescription="@string/animalsimge"
+                    android:onClick="animalsImageonClick" />
+
+                <ImageView
+                    android:id="@+id/blackImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/black"
+                    android:contentDescription="@string/blackimage"
+                    android:onClick="blackImageonClick" />
+
+                <ImageView
+                    android:id="@+id/citiesImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/cities"
+                    android:contentDescription="@string/citiesimage"
+                    android:onClick="citiesImageonClick" />
+
+                <ImageView
+                    android:id="@+id/creepyImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/creepy"
+                    android:contentDescription="@string/creepyimage"
+                    android:onClick="creepyImageonClick" />
+
+                <ImageView
+                    android:id="@+id/doubleExposureImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/doubleexposure"
+                    android:contentDescription="@string/doblimah"
+                    android:onClick="doubleExposureImageonClick" />
+
+                <ImageView
+                    android:id="@+id/natureImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/nature"
+                    android:contentDescription="@string/natureekek"
+                    android:onClick="natureImageonClick" />
+
+                <ImageView
+                    android:id="@+id/patternsImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/patterns"
+                    android:contentDescription="@string/patternsmaneno"
+                    android:onClick="patternsImageonClick" />
+
+                <ImageView
+                    android:id="@+id/pyroImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/pyro"
+                    android:contentDescription="@string/firefire"
+                    android:onClick="pyroImageonClick" />
+
+                <ImageView
+                    android:id="@+id/skySliceImage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/slicesofsky"
+                    android:contentDescription="@string/mawingubaby"
+                    android:onClick="sliceskyImageonClick" />
+            </LinearLayout>
+        </ScrollView>
+
+
+
+
+</android.support.constraint.ConstraintLayout>

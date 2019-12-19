@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2E43</color>
+    <color name="colorPrimaryDark">#2A2E43</color>
+    <color name="colorAccent">#535C8D</color>
+    <color name = "drawer_background">#2A2E43</color>
+    <color name= "drawer_text">#E7E7EA</color>
+    <color name= "colorPagePrimary">#00E7E7EA</color>
+    <color name= "colorPageDark">#00E7E7EA</color>
+</resources>

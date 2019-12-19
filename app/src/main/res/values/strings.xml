@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">4K Wallpapers</string>
+    <string name="banneradunitid">ca-app-pub-3609953011019731/2353077931</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Sharing is Caring!</string>
+    <string name="menu_gallery">Rate App!</string>
+    <string name="menu_slideshow">About</string>
+    <string name="menu_tools">More Apps</string>
+
+    <string name="_4k_wallpapers">4K Wallpapers</string>
+    <string name="v_1_0_0">V:1.0.0</string>
+    <string name="abstractimg">abstractimg</string>
+    <string name="animalsimge">animalsimge</string>
+    <string name="blackimage">blackimage</string>
+    <string name="citiesimage">citiesimage</string>
+    <string name="creepyimage">creepyimage</string>
+    <string name="doblimah">doblimah</string>
+    <string name="natureekek">natureekek</string>
+    <string name="patternsmaneno">patternsmaneno</string>
+    <string name="firefire">firefire</string>
+    <string name="mawingubaby">mawingubaby</string>
+    <string name="setround">setround</string>
+    <string name="saveround">saveround</string>
+    <string name="shareround">shareround</string>
+    <string name="_2019">2019</string>
+    <string name="_4k_wallpapersabt">4K WALLPAPERS</string>
+    <string name="v_1_0_0abt">V: 1.0.0</string>
+    <string name="developed_by_bultech_appsabt">Developed by:Bultech Apps</string>
+    <string name="mbogi_ni_ya">kimonyoski</string>
+</resources>

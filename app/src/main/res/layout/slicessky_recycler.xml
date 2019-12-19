@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/image_view_slicessky"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp" />
+
+        <ImageButton
+            android:id="@+id/ssbuttonup"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/roundcorners"
+            android:contentDescription="@string/saveround"
+            android:src="@drawable/ic_action_up" />
+
+
+
+        <ImageButton
+            android:id="@+id/slicesskybuttonShare"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/roundcorners"
+            android:contentDescription="@string/shareround"
+            android:src="@drawable/ic_action_share" />
+
+
+        <ImageButton
+            android:id="@+id/slicesskybuttonSet"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/roundcorners"
+            android:contentDescription="@string/setround"
+            android:src="@drawable/ic_action_wallpaper" />
+
+
+        <ImageButton
+            android:id="@+id/slicesskybuttonSave"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="30dp"
+            android:background="@drawable/roundcorners"
+            android:contentDescription="@string/saveround"
+            android:src="@drawable/ic_action_download" />
+
+
+
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

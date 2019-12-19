@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "120179835625",
+    "firebase_url": "https://imagesample4.firebaseio.com",
+    "project_id": "imagesample4",
+    "storage_bucket": "imagesample4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120179835625:android:9f76b6f200f03bda",
+        "android_client_info": {
+          "package_name": "com.app.a4kwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gpDJx4nlNimVdOFKXoT4F36K0fL5nQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120179835625:android:06ca441f1b8408f1",
+        "android_client_info": {
+          "package_name": "com.apps.b4kwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120179835625-pc5m60ntmr8rgtousmhjdijfpat492j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apps.b4kwallpapers",
+            "certificate_hash": "79c10dc93f41b02e1ed4f0d549249a55bf288a2c"
+          }
+        },
+        {
+          "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gpDJx4nlNimVdOFKXoT4F36K0fL5nQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120179835625:android:98a9e1ce483520df",
+        "android_client_info": {
+          "package_name": "com.example.imagesample4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120179835625-oc4m3esv6n5hbkorp3vnpqalal5idetm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imagesample4",
+            "certificate_hash": "79c10dc93f41b02e1ed4f0d549249a55bf288a2c"
+          }
+        },
+        {
+          "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gpDJx4nlNimVdOFKXoT4F36K0fL5nQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120179835625:android:317d6d6a7faa4209",
+        "android_client_info": {
+          "package_name": "com.pete.a4kwallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120179835625-2flt3lgkqj0rmvmhl6ancmqaecfd1ot7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pete.a4kwallpapers",
+            "certificate_hash": "79c10dc93f41b02e1ed4f0d549249a55bf288a2c"
+          }
+        },
+        {
+          "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9gpDJx4nlNimVdOFKXoT4F36K0fL5nQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120179835625-ms1u850l8hot2jq0ll2vlm9ddbi55lhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
